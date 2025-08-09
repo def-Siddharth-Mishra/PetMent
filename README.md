@@ -1,4 +1,4 @@
-# PetSlot - Pet Appointment Scheduling App
+# PetMent - Pet Appointment Scheduling App
 
 A React Native appointment scheduling application for pet practices, built with Clean Architecture principles and TypeScript.
 
@@ -42,7 +42,7 @@ src/
 │   └── repositories/      # Repository implementations
 ├── shared/                # Shared utilities
 │   └── utils/             # Helper functions
-└── tests/                 # Unit tests
+
 ```
 
 ## Installation & Setup
@@ -57,8 +57,8 @@ src/
 
 1. **Clone and install dependencies**:
    ```bash
-   git clone <repository-url>
-   cd PetSlot
+   git clone https://github.com/def-Siddharth-Mishra/PetMent.git
+   cd PetMent
    npm install
    ```
 
